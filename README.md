@@ -41,8 +41,9 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
 - [United Kingdom 🇺🇰](#united-kingdom-)
+  - [England](#england)
   - [Scotland](#scotland)
-    - [Edinburgh](#edinburgh)
+      - [Edinburgh](#edinburgh)
 - [United States 🇺🇸](#united-states-)
   - [California <a id="california"></a>](#california-a-idcaliforniaa)
     - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-a-idmountain-view-caa)
@@ -608,6 +609,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 
 # United Kingdom 🇬🇧
+
 ## England
 
 ### London
